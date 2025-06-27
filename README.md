@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Anshlibrary/Images/blob/main/gitBack.png)
 <h1 align="center">Hi there👋, I'm Anshul</h1>
-<h3 align="center">I’m currently focusing on upgrading my DevOps skills</h3>
+<h3 align="center">I’m currently focusing on upgrading my Data Engineering skills</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif>
 
 
