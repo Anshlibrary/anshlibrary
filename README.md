@@ -1,20 +1,20 @@
 ![MasterHead](https://github.com/Anshlibrary/Images/blob/main/gitBack.png)
 <h1 align="center">Hi there👋, I'm Anshul</h1>
 <h3 align="center">I’m currently focusing on upgrading my Data Engineering skills</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif>
+<img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif">
 
 
-🌱 Learning: Focused on Data Engineering – building scalable data pipelines, mastering ETL/ELT, and working with tools like Airflow, Spark, and cloud platforms (AWS/GCP).
+- 🔭 Learning: Focused on Data Engineering – building scalable data pipelines, mastering ETL/ELT, and working with tools like Airflow, Spark, and cloud platforms (AWS/GCP).
 
-🐍 Tech Stack: Strong in Python, PySpark, Data Processing, Data Modeling, SQL, and Linux. Exploring Kafka, dbt, and cloud infrastructure.
+- 🐍 Tech Stack: Strong in Python, PySpark, Data Processing, Data Modeling, SQL, and Linux. Exploring Kafka, dbt, and cloud infrastructure.
 
-🚀 Entrepreneurial Spirit: Passionate about building things from the ground up. I've founded and run multiple startups, and I love turning ideas into real, working products.
+- 🚀 Entrepreneurial Spirit: Passionate about building things from the ground up. I've founded and run multiple startups, and I love turning ideas into real, working products.
 
-👯 Collaboration: Open to working on Data Engineering, Python, or SQL projects. Always excited to be part of impactful tech initiatives.
+- 👯 Collaboration: Open to working on Data Engineering, Python, or SQL projects. Always excited to be part of impactful tech initiatives.
 
-🤝 Seeking Help: Looking to grow my knowledge in Data Engineering – especially ETL, Pipeline, Data Modeling, and Data Processing.
+- 🤝 Seeking Help: Looking to grow my knowledge in Data Engineering – especially ETL, Pipeline, Data Modeling, and Data Processing.
 
-💬 Let’s Connect: Whether you need a collaborator or just want to talk tech/startups, feel free to reach out!
+- 💬 Let’s Connect: Whether you need a collaborator or just want to talk tech/startups, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
