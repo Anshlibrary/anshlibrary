@@ -18,8 +18,29 @@
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anshlibrary/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</br>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server)
+  ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=for-the-badge&logo=apache-spark&logoColor=orange)
+  ![Shell Script](https://img.shields.io/badge/-Shell%20Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+  ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&labelColor=000000)
+  ![Database Management](https://img.shields.io/badge/-Database%20Management-000000?style=for-the-badge&logo=databricks)
+  
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![SSMS](https://img.shields.io/badge/-SSMS-333333?style=flat&logo=microsoft&logoColor=white)
+
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshlibrary&show_icons=true&locale=en" alt="anshlibrary" /></p>
 
