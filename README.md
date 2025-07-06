@@ -30,12 +30,25 @@
   ![PySpark](https://img.shields.io/badge/-PySpark-000000?style=for-the-badge&logo=apache-spark&logoColor=orange)
   ![Shell Script](https://img.shields.io/badge/-Shell%20Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-  ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&labelColor=000000)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=for-the-badge&logo=snowflake)
   ![Database Management](https://img.shields.io/badge/-Database%20Management-000000?style=for-the-badge&logo=databricks)
-  
+  ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&labelColor=000000)
+
+- 📦 &nbsp;
+  ![ETL Process](https://img.shields.io/badge/-ETL%20Process-000000?style=for-the-badge&logo=airbyte)
+  ![Data Warehouse](https://img.shields.io/badge/-Data%20Warehouse-000000?style=for-the-badge&logo=snowflake)
+  ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-000000?style=for-the-badge&logo=erlang)
+
+- 📊 &nbsp;
+  ![Production Management](https://img.shields.io/badge/-Production%20Management-000000?style=for-the-badge&logo=codesignal)
+  ![Client Management](https://img.shields.io/badge/-Client%20Management-000000?style=for-the-badge&logo=google)
+  ![Project Management](https://img.shields.io/badge/-Project%20Management-000000?style=for-the-badge&logo=jira)
+  ![AI Creator](https://img.shields.io/badge/-AI%20Creator-000000?style=for-the-badge&logo=openai)
+  ![Entrepreneur](https://img.shields.io/badge/-Entrepreneur-000000?style=for-the-badge&logo=github)
+
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![SSMS](https://img.shields.io/badge/-SSMS-333333?style=flat&logo=microsoft&logoColor=white)
